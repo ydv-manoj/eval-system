@@ -187,7 +187,7 @@ Before installing, ensure you have:
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/evaluation-management-system.git
+git clone https://github.com/ydv-manoj/eval-system.git
 cd evaluation-management-system
 ```
 
